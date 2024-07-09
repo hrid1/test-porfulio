@@ -1,0 +1,17 @@
+.main-section{
+    background: #292929;
+    text-align: center;
+    color: wheat;
+}
+
+.main-section img{
+    width: 300px;
+}
+
+.blogs{
+    display: flex;
+    gap: 24px;
+    align-items: center;
+    justify-content: center;
+    background-color: antiquewhite;
+}
